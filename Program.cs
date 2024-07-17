@@ -10,7 +10,7 @@ string basePage = await httpClient.GetStringAsync("https://books.toscrape.com/")
 List<string> cleanedBasePage = findUniqueHrefs(basePage);
 
 //Loggin to test
-//Console.WriteLine(string.Join("  ,  ", cleanedBasePage.ToArray()));
+Console.WriteLine(string.Join("  ,  ", cleanedBasePage.ToArray()));
 
 //Function for finding links
 static List<string> findUniqueHrefs(string html)
