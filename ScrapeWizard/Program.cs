@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
 
-Console.Write("Another comment");
+//Creating a httpClient to make http calls
+HttpClient httpClient = new HttpClient(); 
+var json = await httpClient.GetStringAsync("https://books.toscrape.com/");
+Console.Write(json);
