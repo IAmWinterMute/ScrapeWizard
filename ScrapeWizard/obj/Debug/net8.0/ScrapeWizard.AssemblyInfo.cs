@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScrapeWizard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+868fcbdced9231a2f208c5d0d81c9d4664f01aeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d6ae986780eb8bb63f8539f7aab1e43a44346ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScrapeWizard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScrapeWizard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
