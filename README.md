@@ -1,0 +1,2 @@
+# ScrapeWizard
+Assignment for interview
