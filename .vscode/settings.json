@@ -1,4 +1,5 @@
 {
     "dotnet.defaultSolution": "ScrapeWizard.sln",
-    "csharp.debug.console": "integratedTerminal"
+    "csharp.debug.console": "integratedTerminal",
+    "editor.codeLens": false
 }
