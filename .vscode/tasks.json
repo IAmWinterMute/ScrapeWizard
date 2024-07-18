@@ -14,7 +14,7 @@
 		{
 			"type": "dotnet",
 			"task": "watch ScrapeWizard",
-			"file": "C:\\Users\\MoreThanDevs\\Documents\\DevProjects\\ScrapeWizard\\ScrapeWizard\\ScrapeWizard\\ScrapeWizard.csproj",
+			"file": "C:\\Users\\MoreThanDevs\\Documents\\DevProjects\\ScrapeWizard\\ScrapeWizard.csproj",
 			"problemMatcher": [],
 			"label": "dotnet: watch ScrapeWizard"
 		}
